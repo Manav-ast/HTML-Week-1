@@ -5,7 +5,7 @@
 ![simple webpage](image.png)
 
 # Time Table
-![Weekly time table](image-1.png)
+![Weekly time table](image-3.png)
 
 # Quiz Form
 ![quiz form](image-2.png)
