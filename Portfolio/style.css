@@ -126,3 +126,9 @@ nav{
     justify-content: space-evenly;
     padding: 1rem 2rem;
 }
+
+.social-icon a {
+    padding-bottom: 1rem;
+    display: block;
+    text-decoration: none;
+}
